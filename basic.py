@@ -1,3 +1,6 @@
+!pip install requests
+!pip install gradio
+
 import requests
 import gradio as gr
 
